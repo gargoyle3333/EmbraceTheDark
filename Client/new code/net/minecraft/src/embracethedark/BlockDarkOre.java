@@ -1,7 +1,7 @@
 
 package net.minecraft.src.embracethedark;
 
-//makes git work
+//Test change
 import java.util.Random;
 
 import net.minecraft.src.Block;
